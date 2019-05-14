@@ -16,17 +16,17 @@ Fish abbreviations replace typed text with an extended command after pressing <S
 
 abbreviation | result
 -------------|---------
-.. | cd ..
-... | cd ../..
-.4 | cd ../../..
-.5 | cd ../../../..
-~ | cd ~
-ll | ls -lhA
-l. | ls -a
-md | mkdir -p
-rd | rmdir
-mkdir | mkdir -p
-rm | rm -r
-cp | cp -r
-ln | ln -s
+`..` | `cd ..`
+`...` | `cd ../..`
+`.4` | `cd ../../..`
+`.5` | `cd ../../../..`
+`~` | `cd ~`
+`ll` | `ls -lhA`
+`l.` | `ls -a`
+`md` | `mkdir -p`
+`rd` | `rmdir`
+`mkdir` | `mkdir -p`
+`rm` | `rm -r`
+`cp` | `cp -r`
+`ln` | `ln -s`
 
