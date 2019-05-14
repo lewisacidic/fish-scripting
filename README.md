@@ -13,7 +13,9 @@ fisher add lewisacidic/fish-scripting-abbr
 
 Fish abbreviations replace typed text with an extended command after pressing <Space> or <Enter>.
 
+
 abbreviation | result
+-------------|---------
 .. | cd ..
 ... | cd ../..
 .4 | cd ../../..
