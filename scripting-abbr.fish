@@ -2,9 +2,14 @@ set -g __lewisacidic_fish_scripting_abbr_version 0.1.0
 
 abbr .. 'cd ..'
 abbr ... 'cd ../..'
+abbr .... 'cd ../../..'
 abbr .4 'cd ../../..'
+abbr ..... 'cd ../../../..'
 abbr .5 'cd ../../../..'
+abbr / 'cd /'
 abbr ~ 'cd ~'
+abbr - 'cd -'
+
 
 abbr ll 'ls -lhA'
 abbr l. 'ls -a'
