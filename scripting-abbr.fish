@@ -1,4 +1,4 @@
-set -g __lewisacidic_fish_scripting_abbr_version 0.1.0
+set -g __lewisacidic_fish_scripting_abbr_version 0.1.1
 
 abbr .. 'cd ..'
 abbr ... 'cd ../..'
