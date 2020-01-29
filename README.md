@@ -15,7 +15,7 @@ Fish abbreviations replace typed text with an extended command after pressing <S
 
 
 abbreviation | result | description
--------------|---------------------
+-------------|--------|------------
 `..` | `cd ..` | go up one directory
 `...` | `cd ../..` | go up two directories
 `....` | `cd ../../..` | go up three directories
