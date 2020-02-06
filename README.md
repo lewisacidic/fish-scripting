@@ -1,12 +1,13 @@
-# fish-scripting-abbr
-Abbreviations for some scripting commands for the [fish shell](https://fishshell.com/).
+# fish-scripting
+
+Scripting helper package for the [fish shell](https://fishshell.com/).
 
 ## Installing
 
 Using [`fisher`](https://github.com/jorgebucaran/fisher):
 
 ```fish
-fisher add lewisacidic/fish-scripting-abbr
+fisher add lewisacidic/fish-scripting
 ```
 
 ## Usage
