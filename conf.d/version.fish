@@ -11,4 +11,5 @@ set -l name (basename (status -f) .fish){_uninstall}
 
 function $name --on-event $name
     set -e __lewisacidic_fish_scripting_abbr_version
+end
 
