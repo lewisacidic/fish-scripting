@@ -1,5 +1,7 @@
 #!/usr/bin/env fish
 #
+# Version info for fish-scripting
+#
 # Copyright (c) 2020 Rich Lewis
 # License: MIT
 
