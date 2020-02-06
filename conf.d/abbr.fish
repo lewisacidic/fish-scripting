@@ -1,4 +1,6 @@
 #!/usr/bin/env fish
+# 
+# Fish abbreviations for scripting
 #
 # Copyright (c) 2020 Rich Lewis
 # License: MIT
