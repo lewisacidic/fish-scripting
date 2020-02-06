@@ -24,6 +24,7 @@ abbr rd 'rmdir'
 abbr mkdir 'mkdir -p'
 
 abbr rm 'rm -r'
+abbr rmrf 'rm -rf'
 
 abbr cp 'cp -r'
 
@@ -48,6 +49,7 @@ function $name --on-event $name
   abbr -e rd 
   abbr -e mkdir 
   abbr -e rm 
+  abbr -e rmrf
   abbr -e cp
   abbr -e ln
 end

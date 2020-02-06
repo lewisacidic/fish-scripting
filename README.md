@@ -31,6 +31,7 @@ abbreviation | result | description
 `rd` | `rmdir` | remove directory
 `mkdir` | `mkdir -p` | make directory and parents as neeed
 `rm` | `rm -r` | remove files recursively
+`rmrf`| `rm -rf` | remove files forcefully and recursively
 `cp` | `cp -r` | copy files recursively
 `ln` | `ln -s` | make symlink
 
