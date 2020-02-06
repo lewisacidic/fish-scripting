@@ -1,4 +1,7 @@
-set -g __lewisacidic_fish_scripting_abbr_version 0.1.1
+#!/usr/bin/env fish
+#
+# Copyright (c) 2020 Rich Lewis
+# License: MIT
 
 abbr .. 'cd ..'
 abbr ... 'cd ../..'
