@@ -5,7 +5,7 @@
 # Copyright (c) 2022 Rich Lewis
 # License: MIT
 
-set -g __fish_scripting_version 0.1.1
+set -g __fish_scripting_version 0.1.2
 
 abbr .. 'cd ..'
 abbr ... 'cd ../..'
