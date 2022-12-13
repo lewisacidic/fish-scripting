@@ -2,7 +2,7 @@
 #
 # Abbreviations for fish-scripting
 #
-# Copyright (c) 2020 Rich Lewis
+# Copyright (c) 2022 Rich Lewis
 # License: MIT
 
 set -g __fish_scripting_version 0.1.1
