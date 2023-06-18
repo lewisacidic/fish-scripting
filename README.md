@@ -7,7 +7,7 @@ Scripting helper package for the [fish shell](https://fishshell.com/).
 Using [`fisher`](https://github.com/jorgebucaran/fisher):
 
 ```fish
-fisher add lewisacidic/fish-scripting
+fisher install lewisacidic/fish-scripting
 ```
 
 ## Usage
